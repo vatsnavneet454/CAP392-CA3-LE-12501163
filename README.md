@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
