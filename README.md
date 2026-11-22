@@ -14,4 +14,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
