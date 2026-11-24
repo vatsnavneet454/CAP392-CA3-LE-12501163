@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/1603-design-parking-system) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vatsnavneet454/CAP392-CA3-LE-12501163/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
